@@ -13,3 +13,7 @@ yarn-error.log
 /.vscode
 .DS_Store
 deploy-web.txt
+/_temp/
+/.agents
+/AGENTS.md
+/DESIGN.md
